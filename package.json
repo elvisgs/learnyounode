@@ -1,0 +1,11 @@
+{
+  "name": "nodeschool_learnyounode",
+  "version": "0.0.0",
+  "description": "Learning the basics of node: asynchronous i/o, http",
+  "homepage": "http://nodeschool.io/#learn-you-node",
+  "dependencies": {
+    "moment": "~2.2.1",
+    "bl": "~0.4.1",
+    "through2-map": "~1.2.0"
+  }
+}
